@@ -6,19 +6,12 @@
 <h1 align="center">
 Moring Labs
 </h1>
-Moring Labs is an open-source, privacy focused, feature rich, online gaming website built in Node.js. 
+모링 랩에서 다양한 실험 기능을 만나보세요!
 
-**If you like our project, please consider giving us a star!**
+## 기능
 
-## Features
+- 깔끔한 UI
+- 100가지 이상의 게임
+- 웹프록시로 막힌 인터넷망 우회
 
-- 🖥️ clean and simple UI
-- 🕹️ 100+ games
-- 🗂️ game filtering
-- 🎨 detailed customization
-- 🖥️ stunning wallpapers
-- 🙈 about:blank and tab cloaking
-- 🖥️ activestatus monitoring
-- and more!
-
-For more info, please refer to our [documentation](https://docs.Moring Labs.smartfoloo.space/)
+피드백은 [디스코드 서버](https://discord.gg/rx97hDmavB) 에서 부탁드립니다
